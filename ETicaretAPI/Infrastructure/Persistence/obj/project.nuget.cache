@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LJYcxjRsy19KcWJ0NGM2xG8OcAkhAQQ1lUnDvz/Q/YzI+zwaOkWkFWo/0mfnP4OY0MVoc1i+sWVzi5EYYL9z2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\firatalcin\\Documents\\GitHub\\ECommerceArchitecture\\ETicaretAPI\\Infrastructure\\Persistence\\ETicaretAPI.Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
