@@ -15,3 +15,5 @@ C:\Users\firatalcin\Documents\GitHub\ECommerceArchitecture\ETicaretAPI\Infrastru
 C:\Users\firatalcin\Documents\GitHub\ECommerceArchitecture\ETicaretAPI\Infrastructure\Persistence\obj\Debug\net6.0\refint\ETicaretAPI.Persistence.dll
 C:\Users\firatalcin\Documents\GitHub\ECommerceArchitecture\ETicaretAPI\Infrastructure\Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.pdb
 C:\Users\firatalcin\Documents\GitHub\ECommerceArchitecture\ETicaretAPI\Infrastructure\Persistence\obj\Debug\net6.0\ref\ETicaretAPI.Persistence.dll
+C:\Users\firatalcin\Documents\GitHub\ECommerceArchitecture\ETicaretAPI\Infrastructure\Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.runtimeconfig.json
+C:\Users\firatalcin\Documents\GitHub\ECommerceArchitecture\ETicaretAPI\Infrastructure\Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.genruntimeconfig.cache
