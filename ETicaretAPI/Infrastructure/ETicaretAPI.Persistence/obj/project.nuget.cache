@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "fYERPZs7SZAE1ieIN27AyuhlD7L/BPB7/S3KKVBi0cEvddaoB4O93na4MqYY1M2i54wPTodTpZs4waP60saROA==",
+  "dgSpecHash": "eASPYoLvSZoanpvMXC+CbvgkDeDTmm9jKIQ05FOgzecW0c1BiqJdTY9OgBj2hNvx00AnFcl3yeuW2JQe8ii5NQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\firatalcin\\Documents\\GitHub\\ECommerceArchitecture\\ETicaretAPI\\Infrastructure\\Persistence\\ETicaretAPI.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\firatalcin\\Documents\\GitHub\\ECommerceArchitecture\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Persistence\\ETicaretAPI.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\firatalcin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.5\\microsoft.entityframeworkcore.6.0.5.nupkg.sha512",
-    "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.5\\microsoft.entityframeworkcore.abstractions.6.0.5.nupkg.sha512",
-    "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.5\\microsoft.entityframeworkcore.analyzers.6.0.5.nupkg.sha512",
+    "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.2\\microsoft.entityframeworkcore.6.0.2.nupkg.sha512",
+    "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.2\\microsoft.entityframeworkcore.abstractions.6.0.2.nupkg.sha512",
+    "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.2\\microsoft.entityframeworkcore.analyzers.6.0.2.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.2\\microsoft.entityframeworkcore.design.6.0.2.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.2\\microsoft.entityframeworkcore.relational.6.0.2.nupkg.sha512",
     "C:\\Users\\firatalcin\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.2\\microsoft.entityframeworkcore.tools.6.0.2.nupkg.sha512",
