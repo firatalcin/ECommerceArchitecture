@@ -1,4 +1,3 @@
-using ETicaretAPI.Application.Abstractions;
 using ETicaretAPI.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
