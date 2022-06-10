@@ -22,5 +22,24 @@ namespace ETicaretAPI.Persistence.Contexts
         //public DbSet<ProductImageFile> ProductImageFiles { get; set; }
         //public DbSet<InvoiceFile> InvoiceFiles { get; set; }
         //public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
+
+        public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
+        {
+            //ChangeTracker : Entityler üzerinden yapılan değişiklerin ya da yeni eklenen verinin yakalanmasını sağlayan propertydir. Update operasyonlarında Track edilen verileri yakalayıp elde etmesini sağlar.
+
+            var datas = ChangeTracker.Entries<BaseEntity>();
+            foreach (var data in datas)
+            {
+                if (data.State == EntityState.Added)
+                {
+                    data.Entity.CreatedDate = DateTime.UtcNow;
+                }
+                if (data.State == EntityState.Modified)
+                {
+                    data.Entity.UpdatedDate = DateTime.UtcNow;
+                }
+            }
+            return await base.SaveChangesAsync(cancellationToken);
+        }
     }
 }
