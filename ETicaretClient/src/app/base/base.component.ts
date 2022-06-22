@@ -8,8 +8,14 @@ export class BaseComponent  {
 
   }
 
-  showSpinner(name: string){
-    this.spinner.show();
+  showSpinner(spinnerNameType: spinnerType){
+    this.spinner.show(spinnerNameType);
+
+    setTimeout(() => this.hideSpinner(spinnerNameType), 1000);
+  }
+
+  hideSpinner(spinnerNameType: spinnerType){
+    this.spinner.hide(spinnerNameType);
   }
 }
 
